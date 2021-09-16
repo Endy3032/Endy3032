@@ -13,9 +13,9 @@
 - **Gender:** Male
 - **Nationality:** Vietnam
 - **Hobby:** Coding
+- [Socials](https://linktr.ee/Endy3032)
 
 ### Languages I'm interested in
-<!-- &color=2E3440&logoColor=ECEFF4) -->
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=2E3440&logoColor=ECEFF4)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=2E3440&logoColor=ECEFF4)
@@ -38,7 +38,6 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=2E3440&logoColor=ECEFF4)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=2E3440&logoColor=ECEFF4)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&color=2E3440&logoColor=ECEFF4)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&color=2E3440&logoColor=ECEFF4)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&color=2E3440&logoColor=ECEFF4)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&color=2E3440&logoColor=ECEFF4)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=2E3440&logoColor=ECEFF4)
@@ -49,22 +48,6 @@
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&color=2E3440&logoColor=ECEFF4)
 
 ***omg so many***
-
-### Socials
-
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Instagram](https://img.shields.io/badge/<handle>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)
-![Twitch](https://img.shields.io/badge/<handle>-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)
-![Twitter](https://img.shields.io/badge/<handle>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
-![Xbox](https://img.shields.io/badge/<handle>-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)
-![YouTube](https://img.shields.io/badge/<handle>-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
-![Repl.it](https://img.shields.io/badge/Repl.it-%230D101E.svg?style=for-the-badge&logo=replit&logoColor=white)
-![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
-![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)
-
 
 <!--
 **Endy3032/Endy3032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
