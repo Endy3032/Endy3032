@@ -13,7 +13,7 @@
 - **Gender:** Male
 - **Nationality:** Vietnam
 - **Hobby:** Coding
-- ***[Socials](https://linktr.ee/Endy3032)***
+- ***[Socials & Contacts](https://linktr.ee/Endy3032)***
 
 ### Languages I'm interested in
 
