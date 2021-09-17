@@ -3,7 +3,7 @@
 <!--   # im endy and i code random stuff -->
  
   [![stats](https://github-readme-stats.vercel.app/api?username=Endy3032&count_private=true&show_icons=true&theme=nord&bg_color=-60,0e1420,262c38&icon_color=81A1C1&border_radius=10&border_color=2e3440&hide=stars&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
-  [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-60,161c28,262c38&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+  [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 <!--   [![views](https://komarev.com/ghpvc/?username=Endy3032&color=1e2430&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter) -->
 
