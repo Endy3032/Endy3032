@@ -15,9 +15,10 @@
 - **Hobby:** Coding
 - ***[Socials & Contacts](https://linktr.ee/Endy3032)***
 
-### Languages I'm interested in
 
 <div align = 'center'>
+
+ ### Languages I'm interested in
 
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=2E3440&logoColor=ECEFF4)](https://python.org/)
  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=2E3440&logoColor=ECEFF4)](https://www.cplusplus.com/)
@@ -30,11 +31,11 @@
  [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=2E3440&logoColor=ECEFF4)](https://developer.apple.com/swift/)
 
 </div>
- 
-### Frameworks I'm interested in
 
 <div align = 'center'>
 
+ ### Frameworks I'm interested in
+ 
  [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=2E3440&logoColor=ECEFF4)](https://electronjs.org/)
  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=2E3440&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=2E3440&logoColor=ECEFF4)](https://flutter.dev/)
