@@ -17,8 +17,7 @@
  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&color=1E2430&logoColor=ECEFF4)](https://daringfireball.net/projects/markdown/)
- [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)
- 
+ [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)  
  [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
  [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=1E2430&logoColor=ECEFF4)](https://flutter.dev/)
