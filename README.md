@@ -4,21 +4,12 @@
  
   [![stats](https://github-readme-stats.vercel.app/api?username=Endy3032&count_private=true&show_icons=true&theme=nord&bg_color=-60,0e1420,262c38&icon_color=81A1C1&border_radius=10&border_color=2e3440&hide=stars&line_height=24)](https://github.com/anuraghazra/github-readme-stats)
   [![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e3440&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+ [![Linktree](https://img.shields.io/badge/My%20Linktree-1de9b6?style=for-the-badge&logo=linktree&color=5E81AC&logoColor=ECEFF4)](https://linktr.ee/Endy3032)
   
 <!--   [![views](https://komarev.com/ghpvc/?username=Endy3032&color=1e2430&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter) -->
 
-</div>
-
-## Basic infos
-- **Gender:** Male
-- **Nationality:** Vietnam
-- **Hobby:** Coding
-- ***[Socials & Contacts](https://linktr.ee/Endy3032)***
-
-
-<div align = 'center'>
-
- ### Languages I'm interested in
+ ### Fav Langs & Frameworks
 
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=1E2430&logoColor=ECEFF4)](https://python.org/)
  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=1E2430&logoColor=ECEFF4)](https://www.cplusplus.com/)
@@ -29,12 +20,6 @@
  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&color=1E2430&logoColor=ECEFF4)](https://daringfireball.net/projects/markdown/)
  [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)
-
-</div>
-
-<div align = 'center'>
-
- ### Frameworks I'm interested in
  
  [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
@@ -44,7 +29,7 @@
  [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&color=1E2430&logoColor=ECEFF4)](https://sass-lang.com/)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
  [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&color=1E2430&logoColor=ECEFF4)](https://vuejs.org/)
-
+ 
 </div>
 
 <!--
