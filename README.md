@@ -7,16 +7,16 @@
   
 <!--   [![views](https://komarev.com/ghpvc/?username=Endy3032&color=1e2430&style=flat-square)](https://github.com/antonkomarev/github-profile-views-counter) -->
 
- ### Fav Langs & Frameworks
+ ### Fav Langs/Frameworks
 
  [![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&color=1E2430&logoColor=ECEFF4)](https://python.org/)
- [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=1E2430&logoColor=ECEFF4)](https://www.cplusplus.com/)
  [![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/HTML)
  [![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/CSS)
  [![JS](https://img.shields.io/badge/JS-%23323330.svg?style=for-the-badge&logo=javascript&color=1E2430&logoColor=ECEFF4)](https://www.javascript.com/)
  [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
- [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
  [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&color=1E2430&logoColor=ECEFF4)](https://daringfireball.net/projects/markdown/)
+ [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=1E2430&logoColor=ECEFF4)](https://www.cplusplus.com/)
+ [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
  [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)  
  [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
  [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
@@ -34,8 +34,6 @@
 <!--
 **Endy3032/Endy3032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-hêh only those who view raw can see these
-
 Here are some ideas to get you started:
 
 - 🔭 Working on a Discord.JS bot - [Repo](https://github.com/Endy3032/EndyJS) - [Replit](https://replit.com/@Enderhoang/EndyJS)
@@ -45,7 +43,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about nothing
 - 📫 How to reach me: view linktree above
 - 😄 Pronouns: ~~male pronoun~~ he/him
-- ⚡ Fun fact: my name is my name
+- ⚡ Fun fact: my name is my name, very fun indeed
 
 hmmmmmmmmmmmmmmmmmmm
 -->
