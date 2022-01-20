@@ -18,16 +18,16 @@
  [![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&color=1E2430&logoColor=ECEFF4)](https://www.cplusplus.com/)
  [![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
  [![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)  
- [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
- [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
- [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=1E2430&logoColor=ECEFF4)](https://flutter.dev/)
- [![NodeJS](https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&color=1E2430&logoColor=ECEFF4)](http://nodejs.dev/)
  [![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&color=1E2430&logoColor=ECEFF4)](https://reactjs.org/)
+ [![Electron.js](https://img.shields.io/badge/ElectronJS-191970?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
+ [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&color=1E2430&logoColor=ECEFF4)](https://vuejs.org/)
+ [![NodeJS](https://img.shields.io/badge/nodejs-6DA55F?style=for-the-badge&logo=node.js&color=1E2430&logoColor=ECEFF4)](http://nodejs.dev/)
  [![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&color=1E2430&logoColor=ECEFF4)](https://sass-lang.com/)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
- [![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&color=1E2430&logoColor=ECEFF4)](https://vuejs.org/)
- 
-  [![Linktree](https://img.shields.io/badge/Stalk%20Me-1de9b6?style=for-the-badge&logo=linktree&color=5E81AC&logoColor=ECEFF4)](https://linktr.ee/Endy3032)
+ [![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&color=1E2430&logoColor=ECEFF4)](https://flutter.dev/)
+ [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
+
+ [![Linktree](https://img.shields.io/badge/Stalk%20Me-1de9b6?style=for-the-badge&logo=linktree&color=5E81AC&logoColor=ECEFF4)](https://linktr.ee/Endy3032)
  
 </div>
 
