@@ -20,7 +20,7 @@
  [![Swift](https://img.shields.io/badge/swift-Swift?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)  
  [![React](https://img.shields.io/badge/react-React.svg?style=for-the-badge&logo=react&color=1E2430&logoColor=ECEFF4)](https://reactjs.org/)
  [![NextJS](https://img.shields.io/badge/nextjs-NextJS.svg?style=for-the-badge&logo=nextdotjs&color=1E2430&logoColor=ECEFF4)](https://nextjs.org/)
- [![Electron.js](https://img.shields.io/badge/ElectronJS-ElectronJS?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
+ [![Electron](https://img.shields.io/badge/Electron-ElectronJS?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
  [![NodeJS](https://img.shields.io/badge/nodejs-NodeJS?style=for-the-badge&logo=node.js&color=1E2430&logoColor=ECEFF4)](http://nodejs.dev/)
  [![SASS](https://img.shields.io/badge/SASS-SASS.svg?style=for-the-badge&logo=SASS&color=1E2430&logoColor=ECEFF4)](https://sass-lang.com/)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-Tailwind.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
