@@ -31,20 +31,3 @@
  [![Discord Profile](https://img.shields.io/badge/Discord%20Profile-Discord?style=for-the-badge&logo=discord&color=5865F2&logoColor=FFFFFF)](https://discord.com/users/554680253876928512)
 
 </div>
-
-<!--
-**Endy3032/Endy3032** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 Working on a Discord.JS bot - [Repo](https://github.com/Endy3032/EndyJS) - [Replit](https://replit.com/@Enderhoang/EndyJS)
-- 🌱 I’m currently learning stuff
-- 👯 I’m looking to collaborate on nothin
-- 🤔 I’m looking for help with nothing (atm)
-- 💬 Ask me about nothing
-- 📫 How to reach me: view linktree above
-- 😄 Pronouns: ~~male pronoun~~ he/him
-- ⚡ Fun fact: my name is my name, very fun indeed
-
-hmmmmmmmmmmmmmmmmmmm
--->
