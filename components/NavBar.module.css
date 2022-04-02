@@ -26,10 +26,10 @@
 
 .navLink {
   @apply eTransition  block sm:inline-block  mx-4 my-3 px-3 py-2  outline-none rounded-2xl  text-polar-100 dark:text-snow-100 text-xl no-underline;
-  @apply target:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230] target:bg-gradient-to-br from-[#191e2b] to-[#151924] target:text-frost-400;
-  @apply hover:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230] hover:bg-gradient-to-br from-[#191e2b] to-[#151924];
-  @apply focus:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230] focus:bg-gradient-to-br from-[#191e2b] to-[#151924];
-  @apply active:shadow-[0px_0px_0px_#121620,-0px_-0px_0px_#1c2230] active:bg-gradient-to-br from-[#191e2b] to-[#151924];
+  @apply target:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:target:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  target:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924] target:text-frost-400;
+  @apply hover:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:hover:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  hover:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
+  @apply focus:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:focus:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  focus:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
+  @apply active:shadow-[0px_0px_0px_#d4d7dc,-0px_-0px_-0px_#fff] dark:active:shadow-[0px_0px_0px_#121620,-0px_-0px_0px_#1c2230]  active:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
 }
 
 /* .navLink.active .navLink:target {

@@ -1,17 +1,13 @@
 import React from "react"
 import Head from "next/head"
-import NavLink from "./NavLink"
 import styles from "./NavBar.module.css"
 
 export default function NavBar() {
   React.useEffect(() => {
-    window.addEventListener('resize', function () {
-      responsiveTabIndex(window)
-    })
-    responsiveTabIndex(window)
+    window.addEventListener('resize', () => responsivemenu(window))
   })
 
-  function responsiveTabIndex(window) {
+  function responsivemenu(window) {
     let menu = document.querySelector(`.${styles.navBox}`)
     // Switch between being selectable/unselectable
     menu.childNodes.forEach(node => {
@@ -24,7 +20,7 @@ export default function NavBar() {
       }
     })
   }
-  
+
   function toggleMenu(obj) {
     let menu = document.querySelector(`.${styles.navBox}`)
     if (obj !== undefined) {
