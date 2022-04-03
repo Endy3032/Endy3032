@@ -1,13 +1,14 @@
 import React from "react"
 import Head from "next/head"
+import { FaBars } from "react-icons/fa"
 import styles from "./NavBar.module.css"
 
 export default function NavBar() {
   React.useEffect(() => {
-    window.addEventListener('resize', () => responsivemenu(window))
+    window.addEventListener('resize', () => responsiveMenu(window))
   })
 
-  function responsivemenu(window) {
+  function responsiveMenu(window) {
     let menu = document.querySelector(`.${styles.navBox}`)
     // Switch between being selectable/unselectable
     menu.childNodes.forEach(node => {
@@ -24,7 +25,7 @@ export default function NavBar() {
   function toggleMenu(obj) {
     let menu = document.querySelector(`.${styles.navBox}`)
     if (obj !== undefined) {
-      if (Object.values(obj.target.classList).includes("fa") || Object.values(obj.target.classList).includes(styles.hamburger) || obj.target.getAttribute("responsive") == "yes") {
+      if (Object.values(obj.target.classList).includes("fa") || Object.values(obj.target.classList).includes(styles.menu) || obj.target.getAttribute("responsive") == "yes") {
         menu.classList.toggle(styles.open)
         menu.childNodes.forEach(node => {
           // Switch between being selectable/unselectable
@@ -48,7 +49,8 @@ export default function NavBar() {
               // <NavLink activeClassName={styles.active} href={site.href}><a className={`navLink ${styles.navLink}`} id={site.href.slice(1)} tabIndex="0" onClick={toggleMenu}>{site.name}</a></NavLink>
             ))}
           </ul>
-          <a className={`${styles.hamburger} ${styles.navLink} ${styles.eTransition}`} onClick={toggleMenu}><i className="fa fa-bars"></i></a>
+          <FaBars className={styles.menu} onClick={toggleMenu}/>
+          {/* <FaBars className={styles.menu} onClick={toggleMenu} /> */}
         </nav>
       </div>
     </>

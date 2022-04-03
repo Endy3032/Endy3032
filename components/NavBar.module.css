@@ -40,6 +40,10 @@
   @apply inline-block  font-bold  bg-clip-text text-transparent bg-gradient-to-tr from-[#a03cff] to-[#B48EAD];
 }
 
-.hamburger {
-  @apply inline-block sm:hidden  absolute top-0 right-0  float-right text-center cursor-pointer;
+.menu {
+  @apply navLink  inline-block sm:hidden w-auto h-auto  absolute top-1 right-0  float-right text-center cursor-pointer;
+}
+
+.menu path {
+  @apply pointer-events-none
 }
