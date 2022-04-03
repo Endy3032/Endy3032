@@ -1,5 +1,4 @@
 @import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
-@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css');
 @tailwind components;
 
 @layer components {
@@ -31,10 +30,6 @@
   @apply focus:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:focus:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  focus:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
   @apply active:shadow-[0px_0px_0px_#d4d7dc,-0px_-0px_-0px_#fff] dark:active:shadow-[0px_0px_0px_#121620,-0px_-0px_0px_#1c2230]  active:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
 }
-
-/* .navLink.active .navLink:target {
-  @apply shadow-[4px_4px_12px_#adb2ba,-4px_-4px_12px_#ffffff] dark:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  bg-gradient-to-br dark:from-[#191e2b] dark:to-[#151924]  text-frost-400;
-} */
 
 .title {
   @apply inline-block  font-bold  bg-clip-text text-transparent bg-gradient-to-tr from-[#a03cff] to-[#B48EAD];

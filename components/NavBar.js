@@ -46,11 +46,9 @@ export default function NavBar() {
           <ul className={styles.navBox}>
             {["home", "about", "socials"].map((site) => (
               <a key={site} href={`#${site}`} id={site} className={styles.navLink} tabIndex="0" onClick={toggleMenu}>/{site}</a>
-              // <NavLink activeClassName={styles.active} href={site.href}><a className={`navLink ${styles.navLink}`} id={site.href.slice(1)} tabIndex="0" onClick={toggleMenu}>{site.name}</a></NavLink>
             ))}
           </ul>
           <FaBars className={styles.menu} onClick={toggleMenu}/>
-          {/* <FaBars className={styles.menu} onClick={toggleMenu} /> */}
         </nav>
       </div>
     </>
