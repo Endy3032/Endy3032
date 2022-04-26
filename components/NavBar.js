@@ -4,20 +4,23 @@ import { FaBars } from "react-icons/fa"
 import styles from "./NavBar.module.css"
 
 export default function NavBar() {
+  var switched = false
+
   React.useEffect(() => {
     window.addEventListener('resize', () => responsiveMenu(window))
   })
 
   function responsiveMenu(window) {
     let menu = document.querySelector(`.${styles.navBox}`)
+    window.innerWidth > 640 && Object.values(menu.classList).includes(styles.open) ? menu.classList.toggle(styles.open) : null
     // Switch between being selectable/unselectable
     menu.childNodes.forEach(node => {
       if (window.innerWidth < 640) {
         node.tabIndex = -1
-        node.setAttribute("responsive","yes")
+        node.setAttribute("responsive", "yes")
       } else {
         node.tabIndex = 0
-        node.setAttribute("responsive","no")
+        node.setAttribute("responsive", "no")
       }
     })
   }
