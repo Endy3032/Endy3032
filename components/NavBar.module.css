@@ -16,11 +16,11 @@
 }
 
 .navBox {
-  @apply eTransition  absolute sm:relative  -right-36 sm:right-0  sm:inline-block  h-auto w-max  shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28] md:shadow-none  text-center  rounded-bl-2xl sm:rounded-2xl  bg-snow-300 dark:bg-polar-25;
+  @apply eTransition  absolute sm:relative  left-full sm:left-0  sm:inline-block  h-auto w-max overflow-x-clip shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28] md:shadow-none  text-center  rounded-bl-2xl sm:rounded-2xl  bg-snow-300 dark:bg-polar-25;
 }
 
 .navBox.open {
-  @apply right-0
+  @apply -translate-x-full
 }
 
 .navLink {
