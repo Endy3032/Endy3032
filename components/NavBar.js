@@ -39,21 +39,16 @@ export default function NavBar() {
   }
 
   return (
-    <>
-      <Head>
-        <title>Endy3032</title>
-      </Head>
-      <div className={styles["nav-wrapper"]}>
-        <nav className={styles.navbar}>
-          <a key="title" href="#home" id="title" className={`${styles.navLink} ${styles.title}`}>Endy3032</a>
-          <ul className={styles.navBox}>
-            {["home", "about", "socials"].map((site) => (
-              <a key={site} href={`#${site}`} id={site} className={styles.navLink} tabIndex="0" onClick={toggleMenu}>/{site}</a>
-            ))}
-          </ul>
-          <FaBars className={styles.menu} onClick={toggleMenu}/>
-        </nav>
-      </div>
-    </>
+    <div className={styles["nav-wrapper"]}>
+      <nav className={styles.navbar}>
+        <a key="title" href="#home" id="title" className={`${styles.navLink} ${styles.title}`}>Endy3032</a>
+        <ul className={styles.navBox}>
+          {["home", "about", "socials"].map((site) => (
+            <a key={site} href={`#${site}`} id={site} className={styles.navLink} tabIndex="0" onClick={toggleMenu}>/{site}</a>
+          ))}
+        </ul>
+        <FaBars className={styles.menu} onClick={toggleMenu}/>
+      </nav>
+    </div>
   )
 }
