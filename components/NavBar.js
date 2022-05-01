@@ -1,5 +1,4 @@
 import React from "react"
-import Head from "next/head"
 import { FaBars } from "react-icons/fa"
 import styles from "./NavBar.module.css"
 
