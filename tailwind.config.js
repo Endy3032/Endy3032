@@ -44,15 +44,44 @@ module.exports = {
         yellow: "#EBCB8B",
         green: "#A3BE8C",
         purple: "#B48EAD",
+        neoShadow: {
+          darkL: "#1C2230",
+          darkR: "#121620",
+          lightL: "#EEf4FF",
+          lightR: "#C2C8D2",
+        },
+        neoButton: {
+          darkL: "#181D2B",
+          darkR: "#141925",
+          lightL: "#DBE2EC",
+          lightR: "#D5DBE6",
+        }
       },
-      fontFamily: {
-        "ubuntu": "\"Ubuntu Mono\""
-      },
+      boxShadow: ({ theme }) => ({ // 65 20 6 0.2 12
+        default: [
+          "4px 4px 12px transparent",
+          "-4px -4px 12px transparent",
+        ],
+        normalDark: [
+          `4px 4px 12px ${theme("colors.neoShadow.darkR")}`,
+          `-4px -4px 12px ${theme("colors.neoShadow.darkL")}`,
+        ],
+        normalLight: [
+          `4px 4px 12px ${theme("colors.neoShadow.lightR")}`,
+          `-4px -4px 12px ${theme("colors.neoShadow.lightL")}`,
+        ],
+        highlight: [
+          `0px 0px 6px ${theme("colors.frost.400")}`,
+          `-0px -0px 6px ${theme("colors.frost.400")}`,
+          `inset 0px 0px 2px ${theme("colors.frost.400")}`,
+          `inset -0px -0px 2px ${theme("colors.frost.400")}`,
+        ]
+      }),
       transitionProperty: {
         "width": "width",
       },
       transitionTimingFunction: {
-        "myEase": "cubic-bezier(.1,.3,.1,1)",
+        "cubic": "cubic-bezier(.1,.3,.1,1)",
       }
     },
   },

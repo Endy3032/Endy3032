@@ -3,19 +3,12 @@
 @import 'tailwindcss/utilities';
 
 html, body {
-  @apply p-0 m-0 bg-snow-100 dark:bg-polar-0 text-polar-0 dark:text-snow-100 antialiased;
-  @apply font-mono;
-  /* font-family: "Ubuntu Mono", -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
-    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif; */
+  @apply p-0 m-0 bg-snow-300 dark:bg-polar-0 text-polar-0 dark:text-snow-100 antialiased font-mono;
 }
 
 #__next {
   @apply w-full h-full m-0 p-0;
 }
-
-/* code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
-} */
 
 a {
   @apply text-inherit no-underline;

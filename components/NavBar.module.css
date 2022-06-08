@@ -1,9 +1,12 @@
-@import url('https://fonts.googleapis.com/css2?family=Ubuntu+Mono&display=swap');
 @tailwind components;
 
 @layer components {
   .eTransition {
-    @apply transition-all ease-myEase duration-500;
+    @apply transition-all ease-cubic duration-500;
+  }
+
+  .buttonBg {
+    @apply bg-gradient-to-br from-neoButton-lightL to-neoButton-lightR dark:from-neoButton-darkL dark:to-neoButton-darkR
   }
 }
 
@@ -12,11 +15,25 @@
 }
 
 .navbar {
-  @apply eTransition  relative block w-full sm:w-max  mx-0 sm:mx-auto sm:my-4 sm:rounded-2xl  shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28] text-left  bg-snow-300 dark:bg-polar-25;
+  @apply
+  eTransition
+  relative block w-full sm:w-max
+  mx-0 sm:mx-auto sm:my-4 sm:rounded-2xl
+  shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28]
+  text-left bg-snow-100 dark:bg-polar-25;
 }
 
 .navBox {
-  @apply eTransition  fixed sm:relative  left-full sm:left-0  sm:inline-block  h-max w-max shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28] md:shadow-none  text-center  rounded-bl-2xl sm:rounded-2xl  bg-snow-300 dark:bg-polar-25;
+  @apply
+  eTransition
+  fixed sm:relative
+  left-full sm:left-0
+  sm:inline-block
+  h-max w-max
+  shadow-[0_0_10px_#ECEFF4] dark:shadow-[0_0_10px_#171C28] md:shadow-none
+  text-center
+  rounded-bl-2xl sm:rounded-2xl
+  bg-snow-100 dark:bg-polar-25;
 }
 
 .navBox.open {
@@ -24,19 +41,28 @@
 }
 
 .navLink {
-  @apply eTransition  block sm:inline-block  mx-4 my-3 px-3 py-2  outline-none rounded-2xl  text-polar-100 dark:text-snow-100 text-xl no-underline;
-  @apply target:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:target:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  target:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924] target:text-frost-400;
-  @apply hover:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:hover:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  hover:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
-  @apply focus:shadow-[4px_4px_12px_#d4d7dc,-4px_-4px_12px_#fff] dark:focus:shadow-[4px_4px_12px_#121620,-4px_-4px_12px_#1c2230]  focus:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
-  @apply active:shadow-[0px_0px_0px_#d4d7dc,-0px_-0px_-0px_#fff] dark:active:shadow-[0px_0px_0px_#121620,-0px_-0px_0px_#1c2230]  active:bg-gradient-to-br from-[#ECEFF4] to-[#E4E7EC] dark:from-[#191e2b] dark:to-[#151924];
+  @apply eTransition  block sm:inline-block  mx-4 my-3 px-3 py-2  outline-none rounded-2xl  text-polar-100 dark:text-snow-100 text-xl no-underline shadow-default;
+  @apply target:shadow-normalLight dark:target:shadow-normalDark  target:buttonBg target:text-frost-400;
+  @apply hover:shadow-normalLight dark:hover:shadow-normalDark  hover:buttonBg;
+  @apply focus-visible:shadow-highlight  focus-visible:buttonBg;
+  @apply active:shadow-highlight  active:buttonBg;
 }
 
 .title {
-  @apply inline-block  font-bold  bg-clip-text text-transparent bg-gradient-to-tr from-[#a03cff] to-[#B48EAD];
+  @apply
+  eTransition
+  inline-block
+  mx-4 my-3 px-3 py-2
+  outline-none rounded-2xl text-xl font-bold
+  bg-clip-text text-transparent bg-gradient-to-tr from-[#a03cff] to-[#B48EAD];
 }
 
 .menu {
-  @apply navLink  inline-block sm:hidden w-auto h-auto  absolute top-1 right-0  float-right text-center cursor-pointer;
+  @apply
+  navLink
+  inline-block sm:hidden w-auto h-auto
+  absolute top-1 right-0
+  float-right text-center cursor-pointer;
 }
 
 .menu path {

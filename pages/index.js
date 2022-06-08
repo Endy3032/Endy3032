@@ -5,8 +5,8 @@ export default function Home() {
   return (
     <>
       <Head>
-          <title>Endy3032</title>
-        </Head>
+        <title>Endy3032</title>
+      </Head>
       <NavBar/>
     </>
   )
