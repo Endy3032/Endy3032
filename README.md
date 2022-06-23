@@ -9,23 +9,15 @@
 
  ### Fav Langs/Frameworks
 
- [![Python](https://img.shields.io/badge/python-Python?style=for-the-badge&logo=python&color=1E2430&logoColor=ECEFF4)](https://python.org/)
  [![HTML](https://img.shields.io/badge/html-HTML.svg?style=for-the-badge&logo=html5&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/HTML)
  [![CSS](https://img.shields.io/badge/css-CSS.svg?style=for-the-badge&logo=css3&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/CSS)
- [![JS](https://img.shields.io/badge/JS-JavaScript.svg?style=for-the-badge&logo=javascript&color=1E2430&logoColor=ECEFF4)](https://www.javascript.com/)
  [![TypeScript](https://img.shields.io/badge/typescript-TypeScript.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
  [![Markdown](https://img.shields.io/badge/markdown-Markdown.svg?style=for-the-badge&logo=markdown&color=1E2430&logoColor=ECEFF4)](https://daringfireball.net/projects/markdown/)
  [![C++](https://img.shields.io/badge/c++-CPP.svg?style=for-the-badge&logo=c%2B%2B&color=1E2430&logoColor=ECEFF4)](https://www.cplusplus.com/)
- [![Dart](https://img.shields.io/badge/dart-Dart.svg?style=for-the-badge&logo=dart&color=1E2430&logoColor=ECEFF4)](https://dart.dev/)
- [![Swift](https://img.shields.io/badge/swift-Swift?style=for-the-badge&logo=swift&color=1E2430&logoColor=ECEFF4)](https://developer.apple.com/swift/)  
- [![React](https://img.shields.io/badge/react-React.svg?style=for-the-badge&logo=react&color=1E2430&logoColor=ECEFF4)](https://reactjs.org/)
  [![NextJS](https://img.shields.io/badge/nextjs-NextJS.svg?style=for-the-badge&logo=nextdotjs&color=1E2430&logoColor=ECEFF4)](https://nextjs.org/)
  [![Electron](https://img.shields.io/badge/Electron-ElectronJS?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
  [![NodeJS](https://img.shields.io/badge/nodejs-NodeJS?style=for-the-badge&logo=node.js&color=1E2430&logoColor=ECEFF4)](http://nodejs.dev/)
- [![SASS](https://img.shields.io/badge/SASS-SASS.svg?style=for-the-badge&logo=SASS&color=1E2430&logoColor=ECEFF4)](https://sass-lang.com/)
  [![TailwindCSS](https://img.shields.io/badge/tailwindcss-Tailwind.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
- [![Flutter](https://img.shields.io/badge/Flutter-Flutter.svg?style=for-the-badge&logo=Flutter&color=1E2430&logoColor=ECEFF4)](https://flutter.dev/)
- [![Flask](https://img.shields.io/badge/flask-Flask.svg?style=for-the-badge&logo=flask&color=1E2430&logoColor=ECEFF4)](https://flask.palletsprojects.com/)
 
  [![Linktree](https://img.shields.io/badge/Stalk%20Me-Linktree?style=for-the-badge&logo=linktree&color=0EB484&logoColor=FFFFFF)](https://linktr.ee/Endy3032)
  [![Discord Profile](https://img.shields.io/badge/Discord%20Profile-Discord?style=for-the-badge&logo=discord&color=5865F2&logoColor=FFFFFF)](https://discord.com/users/554680253876928512)
