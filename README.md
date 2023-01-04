@@ -6,13 +6,9 @@
 ### Stuff I like
 
   [![Deno](https://img.shields.io/badge/deno-Deno?style=for-the-badge&logo=deno&color=1E2430&logoColor=ECEFF4)](http://deno.land/)
-  [![TypeScript](https://img.shields.io/badge/typescript-TypeScript.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
-  [![HTML](https://img.shields.io/badge/html-HTML.svg?style=for-the-badge&logo=html5&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-  [![CSS](https://img.shields.io/badge/css-CSS.svg?style=for-the-badge&logo=css3&color=1E2430&logoColor=ECEFF4)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-  [![Markdown](https://img.shields.io/badge/markdown-Markdown.svg?style=for-the-badge&logo=markdown&color=1E2430&logoColor=ECEFF4)](https://daringfireball.net/projects/markdown/)
+  [![TypeScript](https://img.shields.io/badge/TS-TS.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
   [![Next](https://img.shields.io/badge/next-Next.svg?style=for-the-badge&logo=nextdotjs&color=1E2430&logoColor=ECEFF4)](https://nextjs.org/)
   [![Tailwind](https://img.shields.io/badge/tailwind-Tailwind.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
-  [![Electron](https://img.shields.io/badge/Electron-ElectronJS?style=for-the-badge&logo=Electron&color=1E2430&logoColor=ECEFF4)](https://electronjs.org/)
 
   [![Linktree](https://img.shields.io/badge/Stalk%20Me-Linktree?style=for-the-badge&logo=linktree&color=0EB484&logoColor=FFFFFF)](https://linktr.ee/Endy3032)
   [![Discord Profile](https://img.shields.io/badge/Discord%20Profile-Discord?style=for-the-badge&logo=discord&color=5865F2&logoColor=FFFFFF)](https://discord.com/users/554680253876928512)
