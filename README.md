@@ -1,7 +1,7 @@
 <div align='center'>
 
   [![stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Endy3032&custom_title=GitHub%20Stats&count_private=true&show_icons=true&theme=nord&bg_color=-60,0e1420,262c38&icon_color=81A1C1&border_radius=10&border_color=2e344066&hide=stars&line_height=24&text_bold=false&rank_icon=percentile&include_all_commits=true&card_width=300)](https://github.com/anuraghazra/github-readme-stats)
-  [![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e344066&layout=compact&size_weight=0.3&count_weight=0.7)](https://github.com/anuraghazra/github-readme-stats)
+  [![languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Endy3032&theme=nord&bg_color=-45,0e1420,1e2430&border_radius=10&border_color=2e344066&layout=compact&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Stuff I like
 
