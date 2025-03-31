@@ -7,7 +7,7 @@
 
   [![Deno](https://img.shields.io/badge/deno-Deno?style=for-the-badge&logo=deno&color=1E2430&logoColor=ECEFF4)](http://deno.land/)
   [![TypeScript](https://img.shields.io/badge/TS-TS.svg?style=for-the-badge&logo=typescript&color=1E2430&logoColor=ECEFF4)](https://www.typescriptlang.org/)
-  [![Next](https://img.shields.io/badge/next-Next.svg?style=for-the-badge&logo=nextdotjs&color=1E2430&logoColor=ECEFF4)](https://nextjs.org/)
+  [![Fresh](https://img.shields.io/badge/fresh-Fresh.svg?style=for-the-badge&logo=fresh&color=1E2430&logoColor=ECEFF4)](https://fresh.deno.dev/)
   [![Tailwind](https://img.shields.io/badge/tailwind-Tailwind.svg?style=for-the-badge&logo=tailwind-css&color=1E2430&logoColor=ECEFF4)](https://tailwindcss.com/)
   [![Linktree](https://img.shields.io/badge/Stalk%20Me-Linktree?style=for-the-badge&logo=linktree&color=0E9464&logoColor=FFFFFF)](https://linktr.ee/Endy3032)
 
